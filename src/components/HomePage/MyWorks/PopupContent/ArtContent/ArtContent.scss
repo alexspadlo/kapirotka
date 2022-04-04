@@ -1,0 +1,319 @@
+$red: #239485;
+$white: #fff;
+
+* {
+    transition-property: all;
+    transition-duration: 0.6s;
+    transition-timing-function: ease;
+}
+
+.buttonWrap {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
+    .mainButton {
+        color: #fff;
+        cursor: pointer;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 45px;
+        position: relative;
+        text-decoration: none;
+        text-transform: uppercase;
+        width: 100%;
+
+        &.mainButtonActive {
+            text-decoration: none;
+        }
+
+        &:hover {
+            text-decoration: none;
+        }
+    }
+
+    .buttonRec {
+        background: darken($red, 1.5%);
+        font-weight: 100;
+
+        svg {
+            height: 45px;
+            left: 0;
+            position: absolute;
+            top: 0;
+            width: 100%;
+        }
+
+        rect {
+            fill: none;
+            stroke: #fff;
+            stroke-width: 2;
+            stroke-dasharray: 422, 0;
+            transition: all 0.35s linear;
+        }
+
+        &.mainButtonActive {
+            background: rgba($red, 0);
+            color: black;
+            font-weight: 900;
+            letter-spacing: 1px;
+
+            rect {
+                stroke: #000;
+                stroke-width: 5;
+                stroke-dasharray: 329, 110;
+                stroke-dashoffset: 48;
+                transition: all 1.35s cubic-bezier(0.19, 1, 0.22, 1);
+            }
+        }
+
+        &:hover {
+            background: rgba($red, 0);
+            color: black;
+            font-weight: 900;
+            letter-spacing: 1px;
+
+            rect {
+                stroke: #000;
+                stroke-width: 5;
+                stroke-dasharray: 15, 310;
+                stroke-dashoffset: 48;
+                transition: all 1.35s cubic-bezier(0.19, 1, 0.22, 1);
+            }
+        }
+    }
+}
+
+.popUpOverlay {
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.9);
+    transition: opacity 500ms;
+    visibility: hidden;
+    color: visible;
+    opacity: 1;
+    .popUp {
+        background-color: white;
+        color: black;
+        padding: 0;
+        margin: 40px;
+        height: 90%;
+        overflow: scroll;
+        width: 100%;
+        .panelBackground {
+            background-image: url("../../../../../../static/panel_background.png");
+            background-repeat: no-repeat;
+            background-size: cover;
+            .tabsLeft {
+                width: 100%;
+                li {
+                    width: 100%;
+                    padding: 20px;
+                    text-align: center;
+                    float: none;
+                    margin: 0px;
+                    cursor: pointer;
+                    &:hover,
+                    &:focus {
+                        background-color: rgba(0, 0, 0, 0.6);
+                        border: none;
+                        border-radius: 0px;
+                        margin: 0px;
+                    }
+                    a {
+                        text-decoration: none;
+                        color: #fff;
+                        font-size: 1.5rem;
+                        font-weight: bold;
+                    }
+                }
+                .active {
+                    background-color: rgba(0, 0, 0, 0.6);
+                    border: none;
+                    border-radius: 0px;
+                    margin: 0px;
+                }
+            }
+        }
+        .mobileOnly {
+            display: none;
+            .myCloseMobile {
+                display: none;
+            }
+            .titleMobile {
+                display: none;
+            }
+        }
+    }
+    .myClose {
+        z-index: 9999999999999;
+        position: absolute;
+        color: black;
+        text-decoration: none;
+        font-size: 200%;
+        top: 7%;
+        right: 5%;
+        border: solid 1px #000;
+        border-radius: 40px;
+        padding: 3px 10px;
+        opacity: 0.8;
+        &:hover {
+            opacity: 0.5 !important;
+            background-color: black;
+            color: white;
+        }
+    }
+}
+
+.controlLeft {
+    background-image: url("../../../../../../static/carousel-arrow-left.png") !important;
+    width: 50px;
+    height: 50px;
+}
+
+.controlRight {
+    background-image: url("../../../../../../static/carousel-arrow-right.png") !important;
+    width: 50px;
+    height: 50px;
+}
+
+.carouselSpec {
+    padding: 0 60px 0 80px;
+}
+
+.carouseControl {
+    position: absolute;
+    top: 45%;
+    z-index: 5;
+    display: inline-block;
+    &.carouselNext {
+        right: -6%;
+    }
+    &.carouselPrev {
+        left: -4%;
+    }
+}
+
+.contentPopup {
+    background-color: white;
+    margin-bottom: 9%;
+}
+
+.resizeImage {
+    width: 100%;
+    height: auto;
+}
+.popUpOverlaytarget {
+    visibility: visible;
+    opacity: 1;
+    z-index: 999999999999;
+}
+
+.rightHr {
+    float: right;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 2px solid #000;
+    padding: 0 0 30px;
+    width: 35%;
+    margin: 0;
+}
+
+.colorRounded {
+    border-radius: 40px;
+    height: 75px;
+    width: 75px;
+    float: left;
+    margin-right: 15px;
+}
+
+/*.popUp div {
+    margin: 5% 0 7%;
+}*/
+
+@media (min-width: 768px) and (max-width: 823px) {
+    .panelBackground {
+        min-height: 400px !important;
+    }
+    .removeMobile {
+        min-height: 400px !important;
+    }
+}
+
+@media (max-width: 767px) {
+    .popUpOverlay {
+        .popUp {
+            padding: 0;
+            margin: 0;
+            height: 100%;
+            .mobileOnly {
+                display: block;
+                .myCloseMobile {
+                    display: block;
+                    z-index: 9999999999999;
+                    position: relative;
+                    color: black;
+                    text-decoration: none;
+                    font-size: 200%;
+                    top: 12px;
+                    right: 10px;
+                    border: solid 1px #000;
+                    border-radius: 40px;
+                    padding: 3px 10px;
+                    opacity: 0.8;
+                }
+                .titleMobile {
+                    display: block;
+                }
+            }
+            .panelBackground {
+                display: none !important;
+            }
+            .removeMobile {
+                display: none !important;
+            }
+        }
+        .myClose {
+            display: none !important;
+        }
+    }
+    .carouselSpec {
+        padding: 0 !important;
+    }
+    .controlLeft {
+        background-image: url("../../../../../../static/carousel-arrow-left.png") !important;
+        width: 30px;
+        height: 30px;
+    }
+
+    .controlRight {
+        background-image: url("../../../../../../static/carousel-arrow-right.png") !important;
+        width: 30px;
+        height: 30px;
+    }
+    .carouseControl {
+        position: absolute;
+        top: 45%;
+        z-index: 5;
+        display: inline-block;
+        &.carouselNext {
+            right: 0;
+        }
+        &.carouselPrev {
+            left: 0;
+        }
+    }
+}

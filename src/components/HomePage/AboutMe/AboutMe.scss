@@ -1,0 +1,86 @@
+.mobileContainer {
+    display: none;
+}
+
+.containerBackground {
+    background-image: url('../../../../static/portBack.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    .mobileContainer {
+        display: none;
+    }
+    .newTry {
+        margin: -1px 15%;
+        width: 70%;
+        position: absolute;
+    }
+    .rightBlock {
+        margin: 10% 15% 0;
+        padding: 47px;
+        background-color: #020202;
+        color: white;
+        position: relative;
+    }
+    .leftContainer {
+        background-image: url('../../../../static/heroAlexbanner.png');
+        background-size: 80%;
+        background-position: center right;
+        background-repeat: no-repeat;
+    }
+}
+
+@media only screen and (min-width: 768px) and (min-height: 1024px) {
+    .containerBackground {
+        .leftContainer {
+            background-size: 140%;
+        }
+        .rightBlock {
+            margin: 5% 8% 0;
+        }
+        .newTry {
+            margin: 0 8%;
+            width: 84%;
+        }
+    }
+}
+
+@media (max-width: 700px) {
+    .borderCorrection {
+        min-height: 32vh;
+        img {
+            position: absolute;
+            top: -2px
+        }
+    }
+    .mobileContainer {
+        display: block;
+    }
+    .containerBackground {
+        .mobileContainer {
+            display: block;
+        }
+        .blockControl {
+            display: block !important;
+            flex: 0 0 100%;
+            max-width: 100%;
+            width: 100% !important;
+            margin: 0 !important;
+            .rightBlock {
+                margin: 0 !important;
+            }
+        }
+        .leftContainer {
+            display: none !important;
+        }
+        .columControl {
+            flex: 0 0 100%;
+            max-width: 100%;
+        }
+    }
+}
+
+@media (max-width: 580px) {
+    .borderCorrection {
+        min-height: 22vh;
+    }
+}

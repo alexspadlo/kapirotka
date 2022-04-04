@@ -1,0 +1,190 @@
+$color_lightwhite: #f2f2f2;
+$color_blackpure: black;
+$font_family_sans: sans-serif;
+$background_color_grey333: rgba(1, 1, 1, 0.6);
+$background_color_greylighter: #ddd;
+$background_color_white: #fff;
+
+.stencil {
+	font-family: 'Carrinady', sans-serif;
+	font-size: 35px !important;
+	padding: 15px 0;
+	margin: 0;
+}
+
+.textCenter {
+	text-align: center;
+}
+
+.mobileContainer {
+	display: none;
+}
+
+.topnav {
+	background-color: $background_color_white;
+	position: relative;
+	width: 100%;
+
+	.toggleButton {
+		display: none !important;
+	}
+	
+	.contactSection {
+		position: absolute;
+		right: 0;
+		z-index: 2;
+		width: 350px;
+		text-align: left;
+		background-color: #118677 !important;
+
+
+		h3 {
+			padding: 30px 20px;
+			span {
+				cursor: pointer;
+				color: white;
+				i {
+					color: white;
+				}
+			}
+
+			&:hover {
+				background-color: white;
+
+				.successCheck {
+					color: #06cc06;
+				}
+				span {
+					color: black;
+					i {
+						color: black;
+					}
+				}
+			}
+		}
+
+	}
+	.rightSection {
+		position: absolute;
+		right: 0;
+		top: 0;
+		padding: 0;
+
+		.socialIcons {
+			
+			i {
+				padding: 30px 22px;
+				font-size: 18px;
+
+				&:hover {
+					color: #118677 !important;
+				}
+			}
+
+		}
+		button {
+			background: transparent;
+			outline: 0;
+			border: none;
+			border-left: 1px solid #118677;
+			font-family: 'Carrinady' !important;
+			float: right;
+			display: block;
+			color: $color_blackpure;
+			text-align: center;
+			padding: 18px 22px;
+			text-decoration: none;
+			font-size: 31px;
+			
+			&:hover {
+				background-color: #118677 !important;
+				color: white !important;
+			}
+		}
+	}
+}
+
+@media (max-width: 700px) {
+	.borderCorrection {
+		min-height: 32vh;
+		img {
+			position: absolute;
+			top: -2px
+		}
+	}
+	.noMobile {
+		display: none;
+	}
+	.mobileContainer {
+		padding: 15px 20px;
+		display: block;
+
+		a {
+			margin-right: 25px;
+			i {
+				color: white;
+			}
+		}
+	}
+}
+
+@media (max-width: 932px) {
+	.stencil {
+		margin-left: 20px;
+		text-align: left;
+	}
+}
+
+@media (max-width: 580px) {
+	.topnav { 
+		.stencil {
+			font-size: 25px !important;
+		}
+		.rightSection {
+			button {
+				padding: 11px 22px;
+			}
+		}
+	}
+}
+
+@media (max-width: 580px) {
+	.topnav { 
+		.stencil {
+			font-size: 25px !important;
+		}
+		.rightSection {
+			button {
+				padding: 11px 22px;
+			}
+		}
+	}
+}
+
+@media (max-width: 480px) {
+	.topnav { 
+		.contactSection { 
+			width: 100%;
+		}
+		.stencil {
+			font-size: 20px !important;
+		}
+		.rightSection {
+			.toggleButton {
+				display: block !important;
+				padding: 5px 22px !important;
+				i {
+					color: black;
+				}
+				&:hover {
+					i {
+						color: white;
+					}
+				}
+			}
+			.removeButton {
+				display: none !important;
+			}
+		}
+	}
+}

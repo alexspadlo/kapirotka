@@ -1,0 +1,132 @@
+$red: #239485;
+$white: #fff;
+* {
+    transition-property: all;
+    transition-duration: .6s;
+    transition-timing-function: ease;
+}
+.stencil {
+	font-family: 'Carrinady', sans-serif;
+	font-size: 46px !important;
+	margin: 0;
+}
+
+.containerBackground {
+    background-color: white;
+    .mobileYes {
+        display: none;
+    }
+    .paddingControl {
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+    }
+    h2 {
+        color: black;
+    }
+    h3 {
+        color: black;
+    }
+    .mywebBackground {
+        background-image: url('../../../../static/gymbanner.png');
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        img {
+            visibility: hidden;
+        }
+    }
+    .myArtBackground {
+        background-image: url('../../../../static/retro.png');
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        img {
+            visibility: hidden;
+        }
+    }
+    .mysecondContainer {
+		padding: 6.5em 2.5em;
+        .customPadding {
+            padding-bottom: 50px;
+        }
+        .buttonWrap {
+            align-items: center;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            text-align: center;
+            a {
+                position: absolute !important;
+                bottom: 20px
+            }
+            .mainButton {
+                color: #fff;
+                cursor: pointer;
+                font-size: 16px;
+                font-weight: 400;
+                line-height: 45px;
+                max-width: 160px;
+                position: relative;
+                text-transform: uppercase;
+                letter-spacing: 0.15em;
+                width: 100%;
+                &:hover {
+                    text-decoration: none;
+                }
+            }
+            .buttonRec {
+                background: darken($red, 1.5%);
+                font-weight: 100;
+                svg {
+                    height: 45px;
+                    left: 0;
+                    position: absolute;
+                    top: 0;
+                    width: 100%;
+                }
+                rect {
+                    fill: none;
+                    stroke: #fff;
+                    stroke-width: 2;
+                    stroke-dasharray: 422, 0;
+                    transition: all 0.35s linear;
+                }
+                &:hover {
+                    background: rgba($red, 0);
+                    color: black;
+                    font-weight: 900;
+                    letter-spacing: 1px;
+                    rect {
+                        stroke: #000;
+                        stroke-width: 5;
+                        stroke-dasharray: 15, 310;
+                        stroke-dashoffset: 48;
+                        transition: all 1.35s cubic-bezier(0.19, 1, 0.22, 1);
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 700px) {
+    .containerBackground {
+        .paddingControl {
+            padding-top: 0;
+            padding-bottom: 0;
+        }
+        h3 {
+            text-align: center;
+        }
+        .mobileYes {
+            display: block;
+        }
+        .mobileNo {
+            display: none;
+        }
+        .columControl {
+            flex: 0 0 100%;
+            max-width: 100%;
+        }
+    }
+}

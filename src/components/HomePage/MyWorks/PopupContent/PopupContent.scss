@@ -1,0 +1,176 @@
+.popUpOverlay {
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.9);
+    transition: opacity 500ms;
+    visibility: hidden;
+    color: visible;
+    opacity: 1;
+    padding-top: 120px;
+    .popUp {
+        background-color: white;
+        color: black;
+        padding: 40px 40px;
+        margin: 40px;
+        margin-bottom: 0px !important;
+        height: 100vh;
+        overflow: scroll;
+        .eventiWebwork {
+            background-image: url('../../../../../static/eventi.png');
+        }
+        .myHealthWebwork {
+            background-image: url('../../../../../static/myhealth.png');
+        }
+        .bodyWorkGymmap {
+            background-image: url('../../../../../static/gymappbanner.png')
+        }
+        .cantynaWebWork {
+            background-image: url('../../../../../static/cantyna.png');
+        }
+        .bottiWebWork {
+            background-image: url('../../../../../static/botti.png');
+        }
+        .mangaWebWork {
+            background-image: url('../../../../../static/manga.png');
+        }
+        .planninPortalWebWork {
+            background-image: url('../../../../../static/plannin-portal.png');
+        }
+        .polandtripsWebWork {
+            background-image: url('../../../../../static/polandtrips.png');
+        }
+        .muzzAppmusic {
+            background-image: url('../../../../../static/banner_small_muzz.png');
+        }
+        .tattooshareWebWork {
+            background-image: url('../../../../../static/tattooshare.png');
+        }
+        .interactiveHouseWebwork {
+            background-image: url('../../../../../static/planning_small_banner.png');
+        }
+        .mainComponent {
+            height: 200px;
+            background-repeat: no-repeat;
+            background-size: cover;
+            position: relative;
+            .bottomContainer {
+                height: 60px;
+                position: absolute;
+                bottom: 0px;
+                width: 100%;
+                background: rgba(255,255,255,0.7);
+                cursor: pointer;
+                h2 {
+                    padding: 11px;
+                    color: black;
+                }
+            }
+            .positionSmooth {
+                position: relative;
+            }
+        }
+        .autoHeight {
+            height: auto;
+            background-size: 100% 60px;
+        }
+    }
+    a {
+        position: absolute;
+        color: white;
+        text-decoration: none;
+        font-size: 200%;
+        top: 3.5%;
+        right: 5%;
+        border: solid 1px #fff;
+        border-radius: 40px;
+        padding: 3px 10px;
+        opacity: 0.8;
+        &:hover {
+            opacity: 0.8;
+            background-color: white;
+        }
+    }
+}
+
+@media (max-width: 767px) {
+    .clearDisplay {
+        display: block !important;
+    }
+    .textCenterSmall{
+        text-align: center;
+    }
+    .popUpOverlay {
+        padding-top: 0px;
+        .popUp {
+            margin: 0 !important;
+            .mainComponent {
+                background-size: cover !important;
+            }
+            .hrLeft {
+                margin: 0 0 20px !important;
+            }
+        }
+        a {
+            color: black;
+            border: solid 1px #000;
+            position: relative;
+            top: 0;
+            right: 0;
+        }
+    }
+    .h4Small {
+        font-size: 1.0rem;
+    }
+    .h2Small {
+        font-size: 1.0rem !important;
+        padding: 20px !important;
+    }
+}
+
+.contentPopup {
+    background-color: white;
+    margin-bottom: 9%;
+}
+
+.resizeImage {
+    width: 100%;
+    height: auto;
+}
+.popUpOverlaytarget {
+    visibility: visible;
+	opacity: 1;
+	z-index: 999999999999;
+}
+
+.rightHr {
+    float: right;
+}
+
+hr { 
+    display: block; 
+    height: 1px;
+    border: 0; 
+    border-top: 2px solid #000;
+    padding: 0 0 30px; 
+    width:	35%;
+    margin: 0;
+}
+
+.colorRounded {
+    border-radius: 40px;
+    height: 75px;
+    width: 75px;
+    float: left;
+    margin-right: 15px; 
+}
+
+/*.popUp div {
+    margin: 5% 0 7%;
+}*/

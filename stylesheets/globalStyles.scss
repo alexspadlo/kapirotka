@@ -1,0 +1,53 @@
+@font-face {
+	font-family: 'MyRoboto';
+	src: url('../static/fonts/roboto/Roboto-Regular.woff2') format('woff2'), /* Pretty Modern Browsers */		 
+}
+
+@font-face {
+	font-family: 'Carrinady';
+	src: url('../static/fonts/Carrinady/CarrinadyBold.woff2') format('woff2'), /* Pretty Modern Browsers */		 
+}
+
+@font-face {
+	font-family: 'MyStardos';
+	src: url('../static/fonts/stardos/StardosStencil-Regular.woff2') format('woff2'), /* Pretty Modern Browsers */
+}
+
+@font-face {
+	font-family: 'MySylfaen';
+	src: url('../static/fonts/sylfaen/sylfaen.woff2') format('woff2'), /* Pretty Modern Browsers */
+}
+
+html {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	overflow-x: hidden;
+}
+
+body {
+  font-family: 'MyRoboto', sans-serif;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  padding: 0;
+}
+
+h5 {
+	text-align: center;
+	font-size: 1rem;
+	margin: 50px;
+}
+
+@media only screen and (max-width: 823px)  
+                   and (orientation: landscape) {
+	body {
+		overflow-x: hidden;
+	}
+}
+@media (max-width: 767px) {
+	body {
+		overflow-x: hidden;
+	}
+}

@@ -1,0 +1,1246 @@
+{
+    "navigation": {
+        "title": "Kapirotka / Portfolio",
+        "socialNetwork": [{
+                "url": "https://www.instagram.com/kapirotka/",
+                "icon": "fab fa-instagram"
+            },
+            {
+                "url": "https://www.linkedin.com/in/alexandra-spadlo/",
+                "icon": "fab fa-linkedin-in"
+            },
+            {
+                "url": "https://www.behance.net/alexandraspadlo",
+                "icon": "fab fa-behance"
+            }
+        ],
+        "action": {
+            "title": "contact",
+            "target": "contactMe",
+            "classes": null,
+            "id": "contact"
+        },
+        "contactMe": {
+            "emailAddress": "alexspadlo@gmail.com"
+        }
+    },
+    "heroBanner": {
+        "title": "ALEKSANDRA SPADLO",
+        "subTitle": "Creative Design Portfolio"
+    },
+    "aboutMe": {
+        "title": "Hi there, I'm Alexandra, but call me Kapirotka!",
+        "message": "<p>Welcome to my digital portfolio. <br />I'm interested in bunch of creativity design such as Visual, UI, UX and Fashion</p>",
+        "footerMessage": "Take a look to my works by simply scroll down!!!'"
+    },
+    "myWorks": {
+        "title": "My works",
+        "cards": [{
+                "target": "web",
+                "cardTitle": "Web/App UI Design & Prototypes",
+                "buttonDescrip": "Take a look",
+                "cardDescrip": "The challenge of developing these projects and all the knowledge I got from the work is what I like most about working as a UX / UI Designer. Aligning business expectations with user-centered design to create better experiences and achieve goals and conversions through user testing, ideation, wireframes, prototyping, and UI design."
+            },
+            {
+                "target": "fashion",
+                "cardTitle": "Art Design",
+                "buttonDescrip": "Take a look",
+                "cardDescrip": "Art is my safe haven, where I flee in the sad days and also in the happy days to expose my inspirations. From the point of origin comes the idea, a scribble on paper, digitization and the end product. Each process is pure magic and it feels like I'm not at work, but in an intellectual therapy to develop creativity and to be happy with myself."
+            }
+        ]
+    },
+    "contactMe": {
+        "title": "Contact me",
+        "phoneNumer": "+44 7403 681619",
+        "emailAddress": "alexspadlo@gmail.com",
+        "socialTitle": "Follow me",
+        "socialNetwork": [{
+                "url": "https://www.linkedin.com/in/alexandra-spadlo/",
+                "icon": "fab fa-linkedin"
+            },
+            {
+                "url": "https://www.instagram.com/kapirotka/",
+                "icon": "fab fa-instagram"
+            },
+            {
+                "url": "https://www.behance.net/alexandraspadlo",
+                "icon": "fab fa-behance-square"
+            }
+        ]
+    },
+    "artWorks": [{
+            "title": "Artworks",
+            "images": [
+                {
+                    "data": "luffy.jpg"
+                },
+                {
+                    "data": "gon.jpg"
+                },
+                {
+                    "data": "brocLee.jpeg"
+                },
+                {
+                    "data": "retrogirl.png"
+                },
+                {
+                    "data": "pinkheadgirl-min.png"
+                },
+                {
+                    "data": "stronggirl-min.png"
+                },
+                {
+                    "data": "sailor.jpg"
+                },
+                {
+                    "data": "womanpower-min.png"
+                },
+                {
+                    "data": "bddg.png"
+                },
+                {
+                    "data": "girl001.jpg"
+                },
+                {
+                    "data": "woman.png"
+                },
+                {
+                    "data": "kaseta.png"
+                },
+                {
+                    "data": "calmdown.png"
+                },
+                {
+                    "data": "break.png"
+                },
+                {
+                    "data": "bekind.jpg"
+                },
+                {
+                    "data": "babyyoda.png"
+                },
+                {
+                    "data": "art6.jpg"
+                },
+                {
+                    "data": "art8.png"
+                },
+                {
+                    "data": "art2.jpg"
+                },
+                {
+                    "data": "art4.jpg"
+                },
+                {
+                    "data": "art5.jpg"
+                },
+                {
+                    "data": "art9.jpg"
+                },
+                {
+                    "data": "art10.jpg"
+                },
+                {
+                    "data": "art11.jpg"
+                },
+                {
+                    "data": "art12.jpg"
+                },
+                {
+                    "data": "art13.jpg"
+                },
+                {
+                    "data": "art15.jpg"
+                }
+            ]
+        },
+        {
+            "title": "Motion",
+            "images": [{
+                "data": "drop.mp4"
+            }]
+        },
+        {
+            "title": "Newsletters",
+            "images": [{
+                    "data": "newsletter01.png"
+                },
+                {
+                    "data": "newsletter02.png"
+                },
+                {
+                    "data": "newsletter03.png"
+                }
+            ]
+        },
+        {
+            "title": "Banners",
+            "images": [{
+                    "data": "banner1.png"
+                },
+                {
+                    "data": "banner2.png"
+                },
+                {
+                    "data": "banner3.png"
+                },
+                {
+                    "data": "banner5.jpg"
+                },
+                {
+                    "data": "banner6.jpg"
+                },
+                {
+                    "data": "banner7.jpg"
+                },
+                {
+                    "data": "poster4.jpg"
+                },
+                {
+                    "data": "banner8.png"
+                },
+                {
+                    "data": "halloween3.png"
+                },
+                {
+                    "data": "halloween2.png"
+                },
+                {
+                    "data": "bannerlorem.png"
+                }
+            ]
+        },
+        {
+            "title": "Fashion",
+            "images": [{
+                    "data": "fash1.jpg"
+                },
+                {
+                    "data": "fash2.jpg"
+                },
+                {
+                    "data": "fash3.jpg"
+                },
+                {
+                    "data": "fash4.jpg"
+                },
+                {
+                    "data": "fash5.jpg"
+                },
+                {
+                    "data": "fash6.jpg"
+                },
+                {
+                    "data": "fash7.jpg"
+                },
+                {
+                    "data": "fash8.jpg"
+                },
+                {
+                    "data": "fash9.jpg"
+                },
+                {
+                    "data": "fash10.jpg"
+                },
+                {
+                    "data": "fash11.jpg"
+                },
+                {
+                    "data": "fash12.jpg"
+                },
+                {
+                    "data": "fash13.jpg"
+                },
+                {
+                    "data": "fash14.jpg"
+                }
+            ]
+        },
+        {
+            "title": "Logos",
+            "images": [{
+                    "data": "logo1.png"
+                },
+                {
+                    "data": "logo5.png"
+                },
+                {
+                    "data": "panque1.png"
+                },
+                {
+                    "data": "lorem3.jpg"
+                },
+                {
+                    "data": "lorem02.png"
+                },
+                {
+                    "data": "lorem1.png"
+                },
+                {
+                    "data": "lorem4.png"
+                },
+                {
+                    "data": "lorem5.png"
+                }
+            ]
+        }
+    ],
+    "mainWorks": [{
+        "mainTitle": "Web & App UI Design & Prototypes",
+        "descritpion": "Projects related to responsive UI websites and Applications, applying UX best practices, with extreme attention to accessibility. Company design and branding, corporate identity and style guides, build, design and maintain company designs. Discovering new tools and working with various prototype methods to create a perfect look for the customer and understand the true intention of the final product. Expand my projects to absorb my work.",
+        "allWorks": [{
+                "workName": "Interactive House",
+                "uniQueId": "interactiveHouseWebwork",
+                "bannerImage": "planning_banner.png",
+                "wNdescription": "<p>Interactive House is guidance application on planning permission and building control for householders. <br />The first version of the application was made with Adobe Flash using a nice 3D house animation. With the new era of mobile devices and deprecation of Adobe Flash in the common Browsers the project was migrate to React with a poorly 2D SVG version, however the new version is currently with server instability and they request a new version where the instability would be solved and they could bring back the 3D Animation.</p><p>My work was redesign the whole webpage, bringing a better User Experience, create a new 3D representation and work accord with the Brand Visual Identity from TerraQuest applications. They have as guidelines Bootstrap framework and Font Awesome as iconography.</p><p>Flash versions:</p><div class=\"row pb-3 pt-2\"><div class=\"col text-center\"><img alt=\"houseguide\" class=\"w-100\" src=\"https://raw.githubusercontent.com/alexspadlo/alexspadlo.github.io/master/images/houseguide.png\"></div><div class=\"col text-center\"><img alt=\"terracedguide\" class=\"w-100\" src=\"https://raw.githubusercontent.com/alexspadlo/alexspadlo.github.io/master/images/terracedguide.png\"></div></div><p>Click in the links below and enable flash to check the old Flash websites :)</p><p><a href=\"https://alexspadlo.github.io/ihproto/terracedhouse/\" target=\"_blank\">Terraced House</a>&nbsp; | &nbsp;<a href=\"https://alexspadlo.github.io/ihproto/detachedhouse/\" target=\"_blank\">Detached House</a></p><p>Currently live version:</p><div class=\"row pb-3 pt-2\"><div class=\"col text-center\"><img alt=\"ihcurrently\" class=\"w-100\" src=\"https://raw.githubusercontent.com/alexspadlo/alexspadlo.github.io/master/images/ihcurrently.png\"></div></div><p>As the first application was built in a third company, TerraQuest unfortunately didn't have the main 3D files, only the finals SWF files what became impossible to recreating the house with a good resolution, the best solution was recreate from the beggining and we had a really interesting idea. Why not have fun while create something complex? Yes, we had permission to build the house using The Sims 4, we had to request permission to EA Games and all the project was delivered in the design perspective, currently on code development and integration with the assets that I provided.<p>You can take a look in a really basic part from one of my scratching using The Sims 4:</p><div class=\"row pb-3 pt-2\"><div class=\"col-3\"></div><div class=\"col-lg-6 col-sm-12 text-center\"><iframe class=\"w-100\" height=\"315\" src=\"https://www.youtube.com/embed/LhDY1lTSJgU\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></div><div class=\"col-3\"></div></div><p>The Sponsors got very excited with the new version and very anxious to deploy the application. <br />On the prototype I am using the old Flash file as mp4 to emulating the idea.</p><p class=\"text-center\"><a class=\"btn btn-danger\" href=\"https://alexspadlo.github.io/ihproto/\" target=\"_blank\">Live prototype here</a></p><p>Also in the following sections below you can see a representation from the Prototype.</p>",
+                "wNColStyle": {
+                    "backgroundColor": "#D4E9F5",
+                    "color": "black",
+                    "padding": "30px",
+                    "borderRadius": "40px"
+                },
+                "styleColPallete": {
+                    "padding": "20px"
+                },
+                "styleColTypography": {
+                    "backgroundColor": "#d6d4d4",
+                    "borderRadius": "12px",
+                    "padding": "20px"
+                },
+                "collorPallete": {
+                    "mainTitle": "Color Pallete:",
+                    "description": "<p style=\"font-size: 0.9rem\">The web standards color palette is a finite set of colors approved for use on Interactive House project and consists of only 6 background colors: <strong><em>planning-blue-10, planning-blue-20, planning-red-10, planning-white-100, planning-gray-10, planning-black-100.</em></strong> These web standards color palette can be applied only in background elements and for other elements the development team can use any bootstrap color available on the <a class=\"text-dark\" href=\"https://getbootstrap.com/docs/4.3/utilities/colors/\" target=\"_blank\">Bootstrap documentation</a>.</p>",
+                    "left": [{
+                            "color": "#D4E9F5",
+                            "name": ".planning-blue-10"
+                        },
+                        {
+                            "color": "#1960B0",
+                            "name": ".planning-blue-20"
+                        },
+                        {
+                            "color": "#B2202B",
+                            "name": ".planning-red-10"
+                        }
+                    ],
+                    "right": [{
+                            "color": "#FFFFFF",
+                            "name": ".planning-white-100"
+                        },
+                        {
+                            "color": "#C0C0C0",
+                            "name": ".planning-gray-10"
+                        },
+                        {
+                            "color": "#000000",
+                            "name": ".planning-black-100"
+                        }
+                    ]
+                },
+                "typoGraphy": {
+                    "mainTitle": "Typography",
+                    "description": "<p style=\"font-size: 0.9rem\">Effective text treatment can help developers create pages with character and style using attributes such as size, color and weight. <br />Unique font-family in the whole project: <strong><em>Open Sans, sans-serif</em></strong> with 100 of font-weight to get a lighter visualization.<br />The default font size is <strong><em>1rem</em></strong>. All elements, including headings (H1-6) are set to the default font size. To size any paragraph or heading element to be larger or smaller than the default font size, you must add a size class.<br />The standard size classes that can be used on any text element are: <strong><em>plan-title-h1, plan-subtitle-h2, plan-subtitle-h3, plan-subtitle-h4, plan-subtitle-h5, plan-subtitle-h6</em></strong>. For example, <strong><em>&lt;h1 class=\"plan-subtitle-h3\"&gt;</em></strong> reduces the H1 text to 1.75rem.<br />As this project is aligned together with Bootstrap any Display classes can be used to increase the font-size.<p>",
+                    "left": [{
+                            "type": "H1",
+                            "classes": "h1 float-left mr-3",
+                            "size": "Size: 2.5rem",
+                            "sizeClass": "pt-1 mb-0",
+                            "name": ".plan-title-h1"
+                        },
+                        {
+                            "type": "H2",
+                            "classes": "h2 float-left mr-3",
+                            "size": "Size: 2rem",
+                            "sizeClass": "pt-1 mb-0",
+                            "name": ".plan-subtitle-h2"
+                        },
+                        {
+                            "type": "H3",
+                            "classes": "h3 float-left mr-3",
+                            "size": "Size: 1.75rem",
+                            "sizeClass": "mb-0",
+                            "name": ".plan-subtitle-h3"
+                        }
+                    ],
+                    "right": [{
+                            "type": "H4",
+                            "classes": "h4 float-left mr-3",
+                            "size": "Size: 1.5rem",
+                            "sizeClass": "mb-0",
+                            "name": ".plan-subtitle-h4"
+                        },
+                        {
+                            "type": "H5",
+                            "classes": "h5 ml-0 mt-0 float-left mr-3",
+                            "size": "Size: 1.25rem",
+                            "sizeClass": "mb-0",
+                            "name": ".plan-subtitle-h5"
+                        },
+                        {
+                            "type": "H6",
+                            "classes": "h6 float-left mr-3",
+                            "size": "Size: 1rem",
+                            "sizeClass": "mb-0",
+                            "name": ".plan-subtitle-h6"
+                        }
+                    ]
+                },
+                "bannerSections": [{
+                    "background": "#d6d4d4",
+                    "mainTitle": "Features / Pages",
+                    "images": "planning_pages.png"
+                }]
+            },
+            {
+                "workName": "Muzz App",
+                "uniQueId": "muzzAppmusic",
+                "bannerImage": "muzz_mockup.png",
+                "wNdescription": "<h3 class=\"h3\">Grids</h3><p>Grids are used to help build structure and establish guidelines for how elements should be positioned within a layout. On this project was used the liquid 12 column grid, this structure provides consistency and flexibility for page designs.</p><p>This grid layout is a centered grid with at least 40px padding on each side, with 20px gutters between columns. The 12-column grid is a fluid grid and uses percentages instead of set widths. The grids are not fixed width, the grid widths change based on the width of the browser responsively.</p><div class=\"row pb-3 pt-2\"><div class=\"col text-center\"><img alt=\"mygrid\" class=\"w-100\" src=\"https://raw.githubusercontent.com/alexspadlo/alexspadlo.github.io/master/images/mygrid.png\"></div></div><h3 class=\"h3\">Iconography</h3><p>Font Awesome was used as icons framework and you can set it anywhere using a style prefix and the icon's name. The icons will take on the characteristics and appear alongside text naturally.</p><p>Font Awesome is designed to be used with inline elements and we recommend sticking with a consistent HTML element to reference them by in your project. You can check more about in their <a href=\"https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use\" target=\"_blank\">Font Awesome documentation guide</a>.</p><h3 class=\"h3\">Spacing</h3><p>Margin and padding allow you to adjust the layout to add more top or bottom space to the content and element borders. Spacing can be stacked or nested to provide even more spacing. You can use a combination of both responsive and static spacing. For example, you can set a static padding height to a minimum of 20px, but use responsive classes to scale the padding as the browser width increases. <br />Padding and text sizes work together as a cohesive system of measurements.</p><h4 class=\"h4\">Static spacing</h4><p>Static spacing have fixed pixel heights: 20, 40 and 60px. Can be used when you want fixed spacing regardless of the browser width.</p><h4 class=\"h4\">Responsive spacing</h4><p>Responsive spacing work well in lead spaces, full-width sections and other areas where you want more content spacing on a large screen, but less on a smaller screen. Responsive spacing have variable pixel heights that you can set according what you desire in percent. For example, if the browser is 1000px wide, then 10% of that width is a height of 100px. When viewed on a smaller 500px screen, the height would be 50px.</p>",
+                "wNColStyle": {
+                    "backgroundColor": "#D4E9F5",
+                    "color": "black",
+                    "padding": "30px",
+                    "borderRadius": "40px"
+                },
+                "styleColPallete": {
+                    "padding": "20px"
+                },
+                "styleColTypography": {
+                    "backgroundColor": "#d6d4d4",
+                    "borderRadius": "12px",
+                    "padding": "20px"
+                },
+                "collorPallete": {
+                    "mainTitle": "Color Pallete:",
+                    "description": "<p style=\"font-size: 0.9rem\">The web standards color palette is a finite set of colors approved for use on this project and consists of only 5 background colors: <strong><em>ma-dark-pink-10, ma-dark-violet-20, ma-dark-violet-10, ma-light-gray-10, ma-white-10.</em></strong> These web standards color palette can be applied only in background elements and for other elements the development team can use any bootstrap color available on the <a class=\"text-dark\" href=\"https://getbootstrap.com/docs/4.3/utilities/colors/\" target=\"_blank\">Bootstrap documentation</a>.</p>",
+                    "left": [{
+                            "color": "#881F57",
+                            "name": ".ma-dark-pink-10"
+                        },
+                        {
+                            "color": "#472F80",
+                            "name": ".ma-dark-violet-20"
+                        },
+                        {
+                            "color": "#59497E",
+                            "name": ".ma-dark-violet-10"
+                        }
+                    ],
+                    "right": [{
+                            "color": "#F4F2F2",
+                            "name": ".ma-light-gray-10"
+                        },
+                        {
+                            "color": "#FAF8F8",
+                            "name": ".ma-white-10"
+                        }
+                    ]
+                },
+                "typoGraphy": {
+                    "mainTitle": "Typography",
+                    "description": "<p style=\"font-size: 0.9rem\">Effective text treatment can help developers create pages with character and style using attributes such as size, color and weight. <br />The font-familys for the project: <strong><em>Avenir ( Light and Medium)</em></strong>.<br />The default font size is <strong><em>1rem</em></strong>. All elements, including headings (H1-6) are set to the default font size. To size any paragraph or heading element to be larger or smaller than the default font size, you must add a size class.<br />The standard size classes that can be used on any text element are: <strong><em>ma-title-h1, ma-subtitle-h2, ma-subtitle-h3, ma-subtitle-h4, ma-subtitle-h5, ma-subtitle-h6</em></strong>. For example, <strong><em>&lt;h1 class=\"ma-subtitle-h3\"&gt;</em></strong> reduces the H1 text to 1.75rem.<br />As this project is aligned together with Bootstrap any Display classes can be used to increase the font-size.<p>",
+                    "left": [{
+                            "type": "H1",
+                            "classes": "h1 float-left mr-3",
+                            "size": "Size: 2.5rem",
+                            "sizeClass": "pt-1 mb-0",
+                            "name": ".ma-title-h1"
+                        },
+                        {
+                            "type": "H2",
+                            "classes": "h2 float-left mr-3",
+                            "size": "Size: 2rem",
+                            "sizeClass": "pt-1 mb-0",
+                            "name": ".ma-subtitle-h2"
+                        },
+                        {
+                            "type": "H3",
+                            "classes": "h3 float-left mr-3",
+                            "size": "Size: 1.75rem",
+                            "sizeClass": "mb-0",
+                            "name": ".ma-subtitle-h3"
+                        }
+                    ],
+                    "right": [{
+                            "type": "H4",
+                            "classes": "h4 float-left mr-3",
+                            "size": "Size: 1.5rem",
+                            "sizeClass": "mb-0",
+                            "name": ".ma-subtitle-h4"
+                        },
+                        {
+                            "type": "H5",
+                            "classes": "h5 ml-0 mt-0 float-left mr-3",
+                            "size": "Size: 1.25rem",
+                            "sizeClass": "mb-0",
+                            "name": ".ma-subtitle-h5"
+                        },
+                        {
+                            "type": "H6",
+                            "classes": "h6 float-left mr-3",
+                            "size": "Size: 1rem",
+                            "sizeClass": "mb-0",
+                            "name": ".ma-subtitle-h6"
+                        }
+                    ]
+                },
+                "bannerSections": [{
+                    "background": null,
+                    "mainTitle": "Features",
+                    "images": "muzz_features.png"
+                }]
+            },
+            {
+                "workName": "Body Work",
+                "uniQueId": "bodyWorkGymmap",
+                "bannerImage": "gymbanner.png",
+                "wNdescription": "<h3 class=\"h3\">Grids</h3><p>Grids are used to help build structure and establish guidelines for how elements should be positioned within a layout. On this project was used the liquid 12 column grid, this structure provides consistency and flexibility for page designs.</p><p>This grid layout is a centered grid with at least 40px padding on each side, with 20px gutters between columns. The 12-column grid is a fluid grid and uses percentages instead of set widths. The grids are not fixed width, the grid widths change based on the width of the browser responsively.</p><div class=\"row pb-3 pt-2\"><div class=\"col text-center\"><img alt=\"mygrid\" class=\"w-100\" src=\"https://raw.githubusercontent.com/alexspadlo/alexspadlo.github.io/master/images/mygrid.png\"></div></div><h3 class=\"h3\">Iconography</h3><p>Font Awesome was used as icons framework and you can set it anywhere using a style prefix and the icon's name. The icons will take on the characteristics and appear alongside text naturally.</p><p>Font Awesome is designed to be used with inline elements and we recommend sticking with a consistent HTML element to reference them by in your project. You can check more about in their <a href=\"https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use\" target=\"_blank\">Font Awesome documentation guide</a>.</p><h3 class=\"h3\">Spacing</h3><p>Margin and padding allow you to adjust the layout to add more top or bottom space to the content and element borders. Spacing can be stacked or nested to provide even more spacing. You can use a combination of both responsive and static spacing. For example, you can set a static padding height to a minimum of 20px, but use responsive classes to scale the padding as the browser width increases. <br />Padding and text sizes work together as a cohesive system of measurements.</p><h4 class=\"h4\">Static spacing</h4><p>Static spacing have fixed pixel heights: 20, 40 and 60px. Can be used when you want fixed spacing regardless of the browser width.</p><h4 class=\"h4\">Responsive spacing</h4><p>Responsive spacing work well in lead spaces, full-width sections and other areas where you want more content spacing on a large screen, but less on a smaller screen. Responsive spacing have variable pixel heights that you can set according what you desire in percent. For example, if the browser is 1000px wide, then 10% of that width is a height of 100px. When viewed on a smaller 500px screen, the height would be 50px.</p>",
+                "wNColStyle": {
+                    "backgroundColor": "#D4E9F5",
+                    "color": "black",
+                    "padding": "30px",
+                    "borderRadius": "40px"
+                },
+                "styleColPallete": {
+                    "padding": "20px"
+                },
+                "styleColTypography": {
+                    "backgroundColor": "#d6d4d4",
+                    "borderRadius": "12px",
+                    "padding": "20px"
+                },
+                "collorPallete": {
+                    "mainTitle": "Color Pallete:",
+                    "description": "<p style=\"font-size: 0.9rem\">The web standards color palette is a finite set of colors approved for use on this project and consists of only 4 background colors: <strong><em>bw-light-green-10, bw-light-green-20, bw-dark-green-10, bw-dark-gray-30, bw-white-10.</em></strong> These web standards color palette can be applied only in background elements and for other elements the development team can use any bootstrap color available on the <a class=\"text-dark\" href=\"https://getbootstrap.com/docs/4.3/utilities/colors/\" target=\"_blank\">Bootstrap documentation</a>.</p>",
+                    "left": [{
+                            "color": "#BBECDF",
+                            "name": ".bw-light-green-10"
+                        },
+                        {
+                            "color": "#41C29F",
+                            "name": ".bw-light-green-20"
+                        },
+                        {
+                            "color": "#125543",
+                            "name": ".bw-dark-green-10"
+                        }
+                    ],
+                    "right": [{
+                            "color": "#403F3F",
+                            "name": ".bw-dark-gray-30"
+                        },
+                        {
+                            "color": "#FFFFFF",
+                            "name": ".bw-white-10"
+                        }
+                    ]
+                },
+                "typoGraphy": {
+                    "mainTitle": "Typography",
+                    "description": "<p style=\"font-size: 0.9rem\">Effective text treatment can help developers create pages with character and style using attributes such as size, color and weight. <br />Unique font-family for the whole project: <strong><em>Roboto</em></strong>.<br />The default font size is <strong><em>1rem</em></strong>. All elements, including headings (H1-6) are set to the default font size. To size any paragraph or heading element to be larger or smaller than the default font size, you must add a size class.<br />The standard size classes that can be used on any text element are: <strong><em>bw-title-h1, bw-subtitle-h2, bw-subtitle-h3, bw-subtitle-h4, bw-subtitle-h5, bw-subtitle-h6</em></strong>. For example, <strong><em>&lt;h1 class=\"bw-subtitle-h3\"&gt;</em></strong> reduces the H1 text to 1.75rem.<br />As this project is aligned together with Bootstrap any Display classes can be used to increase the font-size.<p>",
+                    "left": [{
+                            "type": "H1",
+                            "classes": "h1 float-left mr-3",
+                            "size": "Size: 2.5rem",
+                            "sizeClass": "pt-1 mb-0",
+                            "name": ".bw-title-h1"
+                        },
+                        {
+                            "type": "H2",
+                            "classes": "h2 float-left mr-3",
+                            "size": "Size: 2rem",
+                            "sizeClass": "pt-1 mb-0",
+                            "name": ".bw-subtitle-h2"
+                        },
+                        {
+                            "type": "H3",
+                            "classes": "h3 float-left mr-3",
+                            "size": "Size: 1.75rem",
+                            "sizeClass": "mb-0",
+                            "name": ".bw-subtitle-h3"
+                        }
+                    ],
+                    "right": [{
+                            "type": "H4",
+                            "classes": "h4 float-left mr-3",
+                            "size": "Size: 1.5rem",
+                            "sizeClass": "mb-0",
+                            "name": ".bw-subtitle-h4"
+                        },
+                        {
+                            "type": "H5",
+                            "classes": "h5 ml-0 mt-0 float-left mr-3",
+                            "size": "Size: 1.25rem",
+                            "sizeClass": "mb-0",
+                            "name": ".bw-subtitle-h5"
+                        },
+                        {
+                            "type": "H6",
+                            "classes": "h6 float-left mr-3",
+                            "size": "Size: 1rem",
+                            "sizeClass": "mb-0",
+                            "name": ".bw-subtitle-h6"
+                        }
+                    ]
+                },
+                "bannerSections": [{
+                    "background": null,
+                    "mainTitle": "Features",
+                    "images": "gymfeatures.png"
+                }]
+            },
+            {
+                "workName": "PolSKY",
+                "uniQueId": "polandtripsWebWork",
+                "bannerImage": "polandtrips_main.png",
+                "wNdescription": "<h3 class=\"h3\">Grids</h3><p>Grids are used to help build structure and establish guidelines for how elements should be positioned within a layout. On this project was used the liquid 12 column grid, this structure provides consistency and flexibility for page designs.</p><p>This grid layout is a centered grid with at least 40px padding on each side, with 20px gutters between columns. The 12-column grid is a fluid grid and uses percentages instead of set widths. The grids are not fixed width, the grid widths change based on the width of the browser responsively.</p><div class=\"row pb-3 pt-2\"><div class=\"col text-center\"><img alt=\"mygrid\" class=\"w-100\" src=\"https://raw.githubusercontent.com/alexspadlo/alexspadlo.github.io/master/images/mygrid.png\"></div></div><h3 class=\"h3\">Iconography</h3><p>Font Awesome was used as icons framework and you can set it anywhere using a style prefix and the icon's name. The icons will take on the characteristics and appear alongside text naturally.</p><p>Font Awesome is designed to be used with inline elements and we recommend sticking with a consistent HTML element to reference them by in your project. You can check more about in their <a href=\"https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use\" target=\"_blank\">Font Awesome documentation guide</a>.</p><h3 class=\"h3\">Spacing</h3><p>Margin and padding allow you to adjust the layout to add more top or bottom space to the content and element borders. Spacing can be stacked or nested to provide even more spacing. You can use a combination of both responsive and static spacing. For example, you can set a static padding height to a minimum of 20px, but use responsive classes to scale the padding as the browser width increases. <br />Padding and text sizes work together as a cohesive system of measurements.</p><h4 class=\"h4\">Static spacing</h4><p>Static spacing have fixed pixel heights: 20, 40 and 60px. Can be used when you want fixed spacing regardless of the browser width.</p><h4 class=\"h4\">Responsive spacing</h4><p>Responsive spacing work well in lead spaces, full-width sections and other areas where you want more content spacing on a large screen, but less on a smaller screen. Responsive spacing have variable pixel heights that you can set according what you desire in percent. For example, if the browser is 1000px wide, then 10% of that width is a height of 100px. When viewed on a smaller 500px screen, the height would be 50px.</p>",
+                "wNColStyle": {
+                    "backgroundColor": "#D4E9F5",
+                    "color": "black",
+                    "padding": "30px",
+                    "borderRadius": "40px"
+                },
+                "styleColPallete": {
+                    "padding": "20px"
+                },
+                "styleColTypography": {
+                    "backgroundColor": "#d6d4d4",
+                    "borderRadius": "12px",
+                    "padding": "20px"
+                },
+                "collorPallete": {
+                    "mainTitle": "Color Pallete:",
+                    "description": "<p style=\"font-size: 0.9rem\">The web standards color palette is a finite set of colors approved for use on this project and consists of only 5 background colors: <strong><em>pol-dark-pink-10, pol-red-10, pol-light-gray-10, pol-dark-gray-10, pol-white-10.</em></strong> These web standards color palette can be applied only in background elements and for other elements the development team can use any bootstrap color available on the <a class=\"text-dark\" href=\"https://getbootstrap.com/docs/4.3/utilities/colors/\" target=\"_blank\">Bootstrap documentation</a>.</p>",
+                    "left": [{
+                            "color": "#AB2161",
+                            "name": ".pol-dark-pink-10"
+                        },
+                        {
+                            "color": "#DA0E0F",
+                            "name": ".pol-red-10"
+                        },
+                        {
+                            "color": "#F4F4F4",
+                            "name": ".pol-light-gray-10"
+                        }
+                    ],
+                    "right": [{
+                            "color": "#716F6F",
+                            "name": ".pol-dark-gray-10"
+                        },
+                        {
+                            "color": "#FFFFFF",
+                            "name": ".pol-white-10"
+                        }
+                    ]
+                },
+                "typoGraphy": {
+                    "mainTitle": "Typography",
+                    "description": "<p style=\"font-size: 0.9rem\">Effective text treatment can help developers create pages with character and style using attributes such as size, color and weight. <br />The font-familys for the project: <strong><em>Roboto & Arial</em></strong>.<br />The default font size is <strong><em>1rem</em></strong>. All elements, including headings (H1-6) are set to the default font size. To size any paragraph or heading element to be larger or smaller than the default font size, you must add a size class.<br />The standard size classes that can be used on any text element are: <strong><em>pol-title-h1, pol-subtitle-h2, pol-subtitle-h3, pol-subtitle-h4, pol-subtitle-h5, pol-subtitle-h6</em></strong>. For example, <strong><em>&lt;h1 class=\"pol-subtitle-h3\"&gt;</em></strong> reduces the H1 text to 1.75rem.<br />As this project is aligned together with Bootstrap any Display classes can be used to increase the font-size.<p>",
+                    "left": [{
+                            "type": "H1",
+                            "classes": "h1 float-left mr-3",
+                            "size": "Size: 2.5rem",
+                            "sizeClass": "pt-1 mb-0",
+                            "name": ".pol-title-h1"
+                        },
+                        {
+                            "type": "H2",
+                            "classes": "h2 float-left mr-3",
+                            "size": "Size: 2rem",
+                            "sizeClass": "pt-1 mb-0",
+                            "name": ".pol-subtitle-h2"
+                        },
+                        {
+                            "type": "H3",
+                            "classes": "h3 float-left mr-3",
+                            "size": "Size: 1.75rem",
+                            "sizeClass": "mb-0",
+                            "name": ".pol-subtitle-h3"
+                        }
+                    ],
+                    "right": [{
+                            "type": "H4",
+                            "classes": "h4 float-left mr-3",
+                            "size": "Size: 1.5rem",
+                            "sizeClass": "mb-0",
+                            "name": ".pol-subtitle-h4"
+                        },
+                        {
+                            "type": "H5",
+                            "classes": "h5 ml-0 mt-0 float-left mr-3",
+                            "size": "Size: 1.25rem",
+                            "sizeClass": "mb-0",
+                            "name": ".pol-subtitle-h5"
+                        },
+                        {
+                            "type": "H6",
+                            "classes": "h6 float-left mr-3",
+                            "size": "Size: 1rem",
+                            "sizeClass": "mb-0",
+                            "name": ".pol-subtitle-h6"
+                        }
+                    ]
+                },
+                "bannerSections": [{
+                    "background": null,
+                    "mainTitle": "Features",
+                    "images": "polandtrips_page2.png"
+                }]
+            },
+            {
+                "workName": "EVENTI",
+                "uniQueId": "eventiWebwork",
+                "bannerImage": "eventi-banner.png",
+                "wNdescription": "<h3 class=\"h3\">Grids</h3><p>Grids are used to help build structure and establish guidelines for how elements should be positioned within a layout. On this project was used the liquid 12 column grid, this structure provides consistency and flexibility for page designs.</p><p>This grid layout is a centered grid with at least 40px padding on each side, with 20px gutters between columns. The 12-column grid is a fluid grid and uses percentages instead of set widths. The grids are not fixed width, the grid widths change based on the width of the browser responsively.</p><div class=\"row pb-3 pt-2\"><div class=\"col text-center\"><img alt=\"mygrid\" class=\"w-100\" src=\"https://raw.githubusercontent.com/alexspadlo/alexspadlo.github.io/master/images/mygrid.png\"></div></div><h3 class=\"h3\">Iconography</h3><p>Font Awesome was used as icons framework and you can set it anywhere using a style prefix and the icon's name. The icons will take on the characteristics and appear alongside text naturally.</p><p>Font Awesome is designed to be used with inline elements and we recommend sticking with a consistent HTML element to reference them by in your project. You can check more about in their <a href=\"https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use\" target=\"_blank\">Font Awesome documentation guide</a>.</p><h3 class=\"h3\">Spacing</h3><p>Margin and padding allow you to adjust the layout to add more top or bottom space to the content and element borders. Spacing can be stacked or nested to provide even more spacing. You can use a combination of both responsive and static spacing. For example, you can set a static padding height to a minimum of 20px, but use responsive classes to scale the padding as the browser width increases. <br />Padding and text sizes work together as a cohesive system of measurements.</p><h4 class=\"h4\">Static spacing</h4><p>Static spacing have fixed pixel heights: 20, 40 and 60px. Can be used when you want fixed spacing regardless of the browser width.</p><h4 class=\"h4\">Responsive spacing</h4><p>Responsive spacing work well in lead spaces, full-width sections and other areas where you want more content spacing on a large screen, but less on a smaller screen. Responsive spacing have variable pixel heights that you can set according what you desire in percent. For example, if the browser is 1000px wide, then 10% of that width is a height of 100px. When viewed on a smaller 500px screen, the height would be 50px.</p>",
+                "wNColStyle": {
+                    "backgroundColor": "#D4E9F5",
+                    "color": "black",
+                    "padding": "30px",
+                    "borderRadius": "40px"
+                },
+                "styleColPallete": {
+                    "padding": "20px"
+                },
+                "styleColTypography": {
+                    "backgroundColor": "#d6d4d4",
+                    "borderRadius": "12px",
+                    "padding": "20px"
+                },
+                "collorPallete": {
+                    "mainTitle": "Color Pallete:",
+                    "description": "<p style=\"font-size: 0.9rem\">The web standards color palette is a finite set of colors approved for this project and consists of only 6 background colors: <strong><em>ev-white-10, ev-purple-light-10, ev-pink-10, ev-cream-10, ev-dark-gray-10.</em></strong> These web standards color palette can be applied only in background elements and for other elements the development team can use any bootstrap color available on the <a class=\"text-dark\" href=\"https://getbootstrap.com/docs/4.3/utilities/colors/\" target=\"_blank\">Bootstrap documentation</a>.</p>",
+                    "left": [{
+                            "color": "#FCFCFC",
+                            "name": ".ev-white-10"
+                        },
+                        {
+                            "color": "#EFEFFC",
+                            "name": ".ev-purple-light-10"
+                        },
+                        {
+                            "color": "#FDF2F9",
+                            "name": ".ev-pink-10"
+                        }
+                    ],
+                    "right": [{
+                            "color": "#FDF5F5",
+                            "name": ".ev-cream-10"
+                        },
+                        {
+                            "color": "#4E4E4E",
+                            "name": ".ev-dark-gray-10"
+                        }
+                    ]
+                },
+                "typoGraphy": {
+                    "mainTitle": "Typography",
+                    "description": "<p style=\"font-size: 0.9rem\">Effective text treatment can help developers create pages with character and style using attributes such as size, color and weight. <br /><strong><em>Logo - Seaside Resort NF</em></strong> font-family and <strong><em>Avenir Next (Medium and Regular)</em></strong> in the whole project.<br />The default font size is <strong><em>1rem</em></strong>. All elements, including headings (H1-6) are set to the default font size. To size any paragraph or heading element to be larger or smaller than the default font size, you must add a size class.<br />The standard size classes that can be used on any text element are: <strong><em>eventi-title-h1, eventi-subtitle-h2, eventi-subtitle-h3, eventi-subtitle-h4, eventi-subtitle-h5, eventi-subtitle-h6</em></strong>. For example, <strong><em>&lt;h1 class=\"eventi-subtitle-h3\"&gt;</em></strong> reduces the H1 text to 1.75rem.<br />As this project is aligned together with Bootstrap any Display classes can be used to increase the font-size.<p>",
+                    "left": [{
+                            "type": "H1",
+                            "classes": "h1 float-left mr-3",
+                            "size": "Size: 2.5rem",
+                            "sizeClass": "pt-1 mb-0",
+                            "name": ".eventi-title-h1"
+                        },
+                        {
+                            "type": "H2",
+                            "classes": "h2 float-left mr-3",
+                            "size": "Size: 2rem",
+                            "sizeClass": "pt-1 mb-0",
+                            "name": ".eventi-subtitle-h2"
+                        },
+                        {
+                            "type": "H3",
+                            "classes": "h3 float-left mr-3",
+                            "size": "Size: 1.75rem",
+                            "sizeClass": "mb-0",
+                            "name": ".eventi-subtitle-h3"
+                        }
+                    ],
+                    "right": [{
+                            "type": "H4",
+                            "classes": "h4 float-left mr-3",
+                            "size": "Size: 1.5rem",
+                            "sizeClass": "mb-0",
+                            "name": ".eventi-subtitle-h4"
+                        },
+                        {
+                            "type": "H5",
+                            "classes": "h5 ml-0 mt-0 float-left mr-3",
+                            "size": "Size: 1.25rem",
+                            "sizeClass": "mb-0",
+                            "name": ".eventi-subtitle-h5"
+                        },
+                        {
+                            "type": "H6",
+                            "classes": "h6 float-left mr-3",
+                            "size": "Size: 1rem",
+                            "sizeClass": "mb-0",
+                            "name": ".eventi-subtitle-h6"
+                        }
+                    ]
+                },
+                "bannerSections": [{
+                    "background": "#efefef",
+                    "mainTitle": "Homepage",
+                    "images": "eventi_main_page.png"
+                }]
+            },
+            {
+                "workName": "Globechain",
+                "uniQueId": "globechainRedesign",
+                "bannerImage": "globechain-banner.png",
+                "wNdescription": "<p>Samll redesign in the website filter, bringing a better User Experience and work accord with the Brand Visual Identity from Globechain.</p><h3 class=\"h3\">Grids</h3><p>Grids are used to help build structure and establish guidelines for how elements should be positioned within a layout. On this project was used the liquid 12 column grid, this structure provides consistency and flexibility for page designs.</p><p>This grid layout is a centered grid with at least 40px padding on each side, with 20px gutters between columns. The 12-column grid is a fluid grid and uses percentages instead of set widths. The grids are not fixed width, the grid widths change based on the width of the browser responsively.</p><div class=\"row pb-3 pt-2\"><div class=\"col text-center\"><img alt=\"mygrid\" class=\"w-100\" src=\"https://raw.githubusercontent.com/alexspadlo/alexspadlo.github.io/master/images/mygrid.png\"></div></div><h3 class=\"h3\">Iconography</h3><p>Font Awesome was used as icons framework and you can set it anywhere using a style prefix and the icon's name. The icons will take on the characteristics and appear alongside text naturally.</p><p>Font Awesome is designed to be used with inline elements and we recommend sticking with a consistent HTML element to reference them by in your project. You can check more about in their <a href=\"https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use\" target=\"_blank\">Font Awesome documentation guide</a>.</p><h3 class=\"h3\">Spacing</h3><p>Margin and padding allow you to adjust the layout to add more top or bottom space to the content and element borders. Spacing can be stacked or nested to provide even more spacing. You can use a combination of both responsive and static spacing. For example, you can set a static padding height to a minimum of 20px, but use responsive classes to scale the padding as the browser width increases. <br />Padding and text sizes work together as a cohesive system of measurements.</p><h4 class=\"h4\">Static spacing</h4><p>Static spacing have fixed pixel heights: 20, 40 and 60px. Can be used when you want fixed spacing regardless of the browser width.</p><h4 class=\"h4\">Responsive spacing</h4><p>Responsive spacing work well in lead spaces, full-width sections and other areas where you want more content spacing on a large screen, but less on a smaller screen. Responsive spacing have variable pixel heights that you can set according what you desire in percent. For example, if the browser is 1000px wide, then 10% of that width is a height of 100px. When viewed on a smaller 500px screen, the height would be 50px.</p><p class=\"text-center\"><a class=\"btn btn-danger\" href=\"https://xd.adobe.com/view/bd383791-aec4-4b80-7cf0-945c3999918f-cb09/?fullscreen\" target=\"_blank\">Live prototype here</a></p><p>Also in the following sections below you can see a representation from the Prototype.</p>",
+                "wNColStyle": {
+                    "backgroundColor": "#D4E9F5",
+                    "color": "black",
+                    "padding": "30px",
+                    "borderRadius": "40px"
+                },
+                "styleColPallete": {
+                    "padding": "20px"
+                },
+                "styleColTypography": {
+                    "backgroundColor": "#d6d4d4",
+                    "borderRadius": "12px",
+                    "padding": "20px"
+                },
+                "collorPallete": {
+                    "mainTitle": "Color Pallete:",
+                    "description": "<p style=\"font-size: 0.9rem\">The web standards color palette is a finite set of colors approved for use on Globechain redesign and consists in 3 colors: <strong><em>globe-blue-10, globe-blue-20, globe-yel-10.</em></strong> These web standards color palette can be applied only in background elements and for other elements the development team can use any bootstrap color available on the <a class=\"text-dark\" href=\"https://getbootstrap.com/docs/4.3/utilities/colors/\" target=\"_blank\">Bootstrap documentation</a>.</p>",
+                    "left": [{
+                            "color": "#73B0F6",
+                            "name": ".globe-blue-10"
+                        },
+                        {
+                            "color": "#446994",
+                            "name": ".globe-blue-20"
+                        },
+                        {
+                            "color": "#FFC107",
+                            "name": ".globe-yel-10"
+                        }
+                    ]
+                },
+                "typoGraphy": {
+                    "mainTitle": "Typography",
+                    "description": "<p style=\"font-size: 0.9rem\">Effective text treatment can help developers create pages with character and style using attributes such as size, color and weight. <br />Unique font-family in the whole project: <strong><em>Open Sans, sans-serif</em></strong> with 100 of font-weight to get a lighter visualization.<br />The default font size is <strong><em>1rem</em></strong>. All elements, including headings (H1-6) are set to the default font size. To size any paragraph or heading element to be larger or smaller than the default font size, you must add a size class.<br />The standard size classes that can be used on any text element are: <strong><em>globe-title-h1, globe-subtitle-h2, globe-subtitle-h3, globe-subtitle-h4, globe-subtitle-h5, globe-subtitle-h6</em></strong>. For example, <strong><em>&lt;h1 class=\"globe-subtitle-h3\"&gt;</em></strong> reduces the H1 text to 1.75rem.<br />As this project is aligned together with Bootstrap any Display classes can be used to increase the font-size.<p>",
+                    "left": [{
+                            "type": "H1",
+                            "classes": "h1 float-left mr-3",
+                            "size": "Size: 2.5rem",
+                            "sizeClass": "pt-1 mb-0",
+                            "name": ".globe-title-h1"
+                        },
+                        {
+                            "type": "H2",
+                            "classes": "h2 float-left mr-3",
+                            "size": "Size: 2rem",
+                            "sizeClass": "pt-1 mb-0",
+                            "name": ".globe-subtitle-h2"
+                        },
+                        {
+                            "type": "H3",
+                            "classes": "h3 float-left mr-3",
+                            "size": "Size: 1.75rem",
+                            "sizeClass": "mb-0",
+                            "name": ".globe-subtitle-h3"
+                        }
+                    ],
+                    "right": [{
+                            "type": "H4",
+                            "classes": "h4 float-left mr-3",
+                            "size": "Size: 1.5rem",
+                            "sizeClass": "mb-0",
+                            "name": ".globe-subtitle-h4"
+                        },
+                        {
+                            "type": "H5",
+                            "classes": "h5 ml-0 mt-0 float-left mr-3",
+                            "size": "Size: 1.25rem",
+                            "sizeClass": "mb-0",
+                            "name": ".globe-subtitle-h5"
+                        },
+                        {
+                            "type": "H6",
+                            "classes": "h6 float-left mr-3",
+                            "size": "Size: 1rem",
+                            "sizeClass": "mb-0",
+                            "name": ".globe-subtitle-h6"
+                        }
+                    ]
+                },
+                "bannerSections": [{
+                    "background": "#d6d4d4",
+                    "mainTitle": "Features / Pages",
+                    "images": "globechain-feature.jpeg"
+                }]
+            },
+            {
+                "workName": "Tattoo Share",
+                "uniQueId": "tattooshareWebWork",
+                "bannerImage": "tatoo_banner.png",
+                "styleColPallete": {
+                    "padding": "20px"
+                },
+                "styleColTypography": {
+                    "backgroundColor": "#d6d4d4",
+                    "borderRadius": "12px",
+                    "padding": "20px"
+                },
+                "collorPallete": {
+                    "mainTitle": "Color Pallete:",
+                    "description": "<p style=\"font-size: 0.9rem\">The web standards color palette is a finite set of colors approved for use on this project and consists of only 3 background colors: <strong><em>ts-gray-10, ts-black-100, ts-white-100.</em></strong> These web standards color palette can be applied only in background elements and for other elements the development team can use any bootstrap color available on the <a class=\"text-dark\" href=\"https://getbootstrap.com/docs/4.3/utilities/colors/\" target=\"_blank\">Bootstrap documentation</a>.</p>",
+                    "left": [{
+                            "color": "#AAA9A6",
+                            "name": ".ts-gray-10"
+                        },
+                        {
+                            "color": "#000000",
+                            "name": ".ts-black-100"
+                        },
+                        {
+                            "color": "#FFFFFF",
+                            "name": ".ts-white-100"
+                        }
+                    ]
+                },
+                "typoGraphy": {
+                    "mainTitle": "Typography",
+                    "description": "<p style=\"font-size: 0.9rem\">Effective text treatment can help developers create pages with character and style using attributes such as size, color and weight. <br />Unique font-family in the whole project: <strong><em>MS Reference, sans-serif</em></strong>.<br />The default font size is <strong><em>1rem</em></strong>. All elements, including headings (H1-6) are set to the default font size. To size any paragraph or heading element to be larger or smaller than the default font size, you must add a size class.<br />The standard size classes that can be used on any text element are: <strong><em>ts-title-h1, ts-subtitle-h2, ts-subtitle-h3, ts-subtitle-h4, ts-subtitle-h5, ts-subtitle-h6</em></strong>. For example, <strong><em>&lt;h1 class=\"ts-subtitle-h3\"&gt;</em></strong> reduces the H1 text to 1.75rem.<br />As this project is aligned together with Bootstrap any Display classes can be used to increase the font-size.<p>",
+                    "left": [{
+                            "type": "H1",
+                            "classes": "h1 float-left mr-3",
+                            "size": "Size: 2.5rem",
+                            "sizeClass": "pt-1 mb-0",
+                            "name": ".ts-title-h1"
+                        },
+                        {
+                            "type": "H2",
+                            "classes": "h2 float-left mr-3",
+                            "size": "Size: 2rem",
+                            "sizeClass": "pt-1 mb-0",
+                            "name": ".ts-subtitle-h2"
+                        },
+                        {
+                            "type": "H3",
+                            "classes": "h3 float-left mr-3",
+                            "size": "Size: 1.75rem",
+                            "sizeClass": "mb-0",
+                            "name": ".ts-subtitle-h3"
+                        }
+                    ],
+                    "right": [{
+                            "type": "H4",
+                            "classes": "h4 float-left mr-3",
+                            "size": "Size: 1.5rem",
+                            "sizeClass": "mb-0",
+                            "name": ".ts-subtitle-h4"
+                        },
+                        {
+                            "type": "H5",
+                            "classes": "h5 ml-0 mt-0 float-left mr-3",
+                            "size": "Size: 1.25rem",
+                            "sizeClass": "mb-0",
+                            "name": ".ts-subtitle-h5"
+                        },
+                        {
+                            "type": "H6",
+                            "classes": "h6 float-left mr-3",
+                            "size": "Size: 1rem",
+                            "sizeClass": "mb-0",
+                            "name": ".ts-subtitle-h6"
+                        }
+                    ]
+                },
+                "bannerSections": [{
+                    "background": "#efefef",
+                    "mainTitle": "Prototype",
+                    "images": "tattooshare_mobilproto.png"
+                }]
+            },
+            {
+                "workName": "Kakoi Manga",
+                "uniQueId": "mangaWebWork",
+                "bannerImage": "manga_banner.png",
+                "styleColPallete": {
+                    "padding": "20px"
+                },
+                "styleColTypography": {
+                    "backgroundColor": "#d6d4d4",
+                    "borderRadius": "12px",
+                    "padding": "20px"
+                },
+                "collorPallete": {
+                    "mainTitle": "Color Pallete:",
+                    "description": "<p style=\"font-size: 0.9rem\">The web standards color palette is a finite set of colors approved for use on this project and consists of only 3 background colors: <strong><em>kakoi-gray-10, kakoi-black-100, kakoi-white-100.</em></strong> These web standards color palette can be applied only in background elements and for other elements the development team can use any bootstrap color available on the <a class=\"text-dark\" href=\"https://getbootstrap.com/docs/4.3/utilities/colors/\" target=\"_blank\">Bootstrap documentation</a>.</p>",
+                    "left": [{
+                            "color": "#5A5959",
+                            "name": ".kakoi-gray-10"
+                        },
+                        {
+                            "color": "#000000",
+                            "name": ".kakoi-black-100"
+                        },
+                        {
+                            "color": "#FFFFFF",
+                            "name": ".kakoi-white-100"
+                        }
+                    ]
+                },
+                "typoGraphy": {
+                    "mainTitle": "Typography",
+                    "description": "<p style=\"font-size: 0.9rem\">Effective text treatment can help developers create pages with character and style using attributes such as size, color and weight. <br />Unique font-family in the whole project: <strong><em>Trebuchet MS</em></strong>.<br />The default font size is <strong><em>1rem</em></strong>. All elements, including headings (H1-6) are set to the default font size. To size any paragraph or heading element to be larger or smaller than the default font size, you must add a size class.<br />The standard size classes that can be used on any text element are: <strong><em>kakoi-title-h1, kakoi-subtitle-h2, kakoi-subtitle-h3, kakoi-subtitle-h4, kakoi-subtitle-h5, kakoi-subtitle-h6</em></strong>. For example, <strong><em>&lt;h1 class=\"kakoi-subtitle-h3\"&gt;</em></strong> reduces the H1 text to 1.75rem.<br />As this project is aligned together with Bootstrap any Display classes can be used to increase the font-size.<p>",
+                    "left": [{
+                            "type": "H1",
+                            "classes": "h1 float-left mr-3",
+                            "size": "Size: 2.5rem",
+                            "sizeClass": "pt-1 mb-0",
+                            "name": ".kakoi-title-h1"
+                        },
+                        {
+                            "type": "H2",
+                            "classes": "h2 float-left mr-3",
+                            "size": "Size: 2rem",
+                            "sizeClass": "pt-1 mb-0",
+                            "name": ".kakoi-subtitle-h2"
+                        },
+                        {
+                            "type": "H3",
+                            "classes": "h3 float-left mr-3",
+                            "size": "Size: 1.75rem",
+                            "sizeClass": "mb-0",
+                            "name": ".kakoi-subtitle-h3"
+                        }
+                    ],
+                    "right": [{
+                            "type": "H4",
+                            "classes": "h4 float-left mr-3",
+                            "size": "Size: 1.5rem",
+                            "sizeClass": "mb-0",
+                            "name": ".kakoi-subtitle-h4"
+                        },
+                        {
+                            "type": "H5",
+                            "classes": "h5 ml-0 mt-0 float-left mr-3",
+                            "size": "Size: 1.25rem",
+                            "sizeClass": "mb-0",
+                            "name": ".kakoi-subtitle-h5"
+                        },
+                        {
+                            "type": "H6",
+                            "classes": "h6 float-left mr-3",
+                            "size": "Size: 1rem",
+                            "sizeClass": "mb-0",
+                            "name": ".kakoi-subtitle-h6"
+                        }
+                    ]
+                },
+                "bannerSections": [{
+                    "background": "#efefef",
+                    "mainTitle": "Prototype",
+                    "images": "manga_pages.png"
+                }]
+            },
+            {
+                "workName": "My Health",
+                "uniQueId": "myHealthWebwork",
+                "bannerImage": "health_topbanner.png",
+                "wNdescription": "<h3 class=\"h3\">Grids</h3><p>Grids are used to help build structure and establish guidelines for how elements should be positioned within a layout. On this project was used the liquid 12 column grid, this structure provides consistency and flexibility for page designs.</p><p>This grid layout is a centered grid with at least 40px padding on each side, with 20px gutters between columns. The 12-column grid is a fluid grid and uses percentages instead of set widths. The grids are not fixed width, the grid widths change based on the width of the browser responsively.</p><div class=\"row pb-3 pt-2\"><div class=\"col text-center\"><img alt=\"mygrid\" class=\"w-100\" src=\"https://raw.githubusercontent.com/alexspadlo/alexspadlo.github.io/master/images/mygrid.png\"></div></div><h3 class=\"h3\">Iconography</h3><p>Font Awesome was used as icons framework and you can set it anywhere using a style prefix and the icon's name. The icons will take on the characteristics and appear alongside text naturally.</p><p>Font Awesome is designed to be used with inline elements and we recommend sticking with a consistent HTML element to reference them by in your project. You can check more about in their <a href=\"https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use\" target=\"_blank\">Font Awesome documentation guide</a>.</p><h3 class=\"h3\">Spacing</h3><p>Margin and padding allow you to adjust the layout to add more top or bottom space to the content and element borders. Spacing can be stacked or nested to provide even more spacing. You can use a combination of both responsive and static spacing. For example, you can set a static padding height to a minimum of 20px, but use responsive classes to scale the padding as the browser width increases. <br />Padding and text sizes work together as a cohesive system of measurements.</p><h4 class=\"h4\">Static spacing</h4><p>Static spacing have fixed pixel heights: 20, 40 and 60px. Can be used when you want fixed spacing regardless of the browser width.</p><h4 class=\"h4\">Responsive spacing</h4><p>Responsive spacing work well in lead spaces, full-width sections and other areas where you want more content spacing on a large screen, but less on a smaller screen. Responsive spacing have variable pixel heights that you can set according what you desire in percent. For example, if the browser is 1000px wide, then 10% of that width is a height of 100px. When viewed on a smaller 500px screen, the height would be 50px.</p>",
+                "wNColStyle": {
+                    "backgroundColor": "#D4E9F5",
+                    "color": "black",
+                    "padding": "30px",
+                    "borderRadius": "40px"
+                },
+                "styleColPallete": {
+                    "padding": "20px"
+                },
+                "styleColTypography": {
+                    "backgroundColor": "#d6d4d4",
+                    "borderRadius": "12px",
+                    "padding": "20px"
+                },
+                "collorPallete": {
+                    "mainTitle": "Color Pallete:",
+                    "description": "<p style=\"font-size: 0.9rem\">The web standards color palette is a finite set of colors approved for use on this project and consists of only 5 background colors: <strong><em>mh-light-gray-10, mh-light-gray-20, mh-light-blue-10, mh-black-100, mh-white-100.</em></strong> These web standards color palette can be applied only in background elements and for other elements the development team can use any bootstrap color available on the <a class=\"text-dark\" href=\"https://getbootstrap.com/docs/4.3/utilities/colors/\" target=\"_blank\">Bootstrap documentation</a>.</p>",
+                    "left": [{
+                            "color": "#92AEBE",
+                            "name": ".mh-light-gray-10"
+                        },
+                        {
+                            "color": "#7DA0B2",
+                            "name": ".mh-light-gray-20"
+                        },
+                        {
+                            "color": "#49ACCC",
+                            "name": ".mh-light-blue-10"
+                        }
+                    ],
+                    "right": [{
+                            "color": "#000000",
+                            "name": ".mh-black-100"
+                        },
+                        {
+                            "color": "#FFFFFF",
+                            "name": ".mh-white-100"
+                        }
+                    ]
+                },
+                "typoGraphy": {
+                    "mainTitle": "Typography",
+                    "description": "<p style=\"font-size: 0.9rem\">Effective text treatment can help developers create pages with character and style using attributes such as size, color and weight. <br />Unique font-family in the whole project: <strong><em>Roboto</em></strong>.<br />The default font size is <strong><em>1rem</em></strong>. All elements, including headings (H1-6) are set to the default font size. To size any paragraph or heading element to be larger or smaller than the default font size, you must add a size class.<br />The standard size classes that can be used on any text element are: <strong><em>mh-title-h1, mh-subtitle-h2, mh-subtitle-h3, mh-subtitle-h4, mh-subtitle-h5, mh-subtitle-h6</em></strong>. For example, <strong><em>&lt;h1 class=\"mh-subtitle-h3\"&gt;</em></strong> reduces the H1 text to 1.75rem.<br />As this project is aligned together with Bootstrap any Display classes can be used to increase the font-size.<p>",
+                    "left": [{
+                            "type": "H1",
+                            "classes": "h1 float-left mr-3",
+                            "size": "Size: 2.5rem",
+                            "sizeClass": "pt-1 mb-0",
+                            "name": ".mh-title-h1"
+                        },
+                        {
+                            "type": "H2",
+                            "classes": "h2 float-left mr-3",
+                            "size": "Size: 2rem",
+                            "sizeClass": "pt-1 mb-0",
+                            "name": ".mh-subtitle-h2"
+                        },
+                        {
+                            "type": "H3",
+                            "classes": "h3 float-left mr-3",
+                            "size": "Size: 1.75rem",
+                            "sizeClass": "mb-0",
+                            "name": ".mh-subtitle-h3"
+                        }
+                    ],
+                    "right": [{
+                            "type": "H4",
+                            "classes": "h4 float-left mr-3",
+                            "size": "Size: 1.5rem",
+                            "sizeClass": "mb-0",
+                            "name": ".mh-subtitle-h4"
+                        },
+                        {
+                            "type": "H5",
+                            "classes": "h5 ml-0 mt-0 float-left mr-3",
+                            "size": "Size: 1.25rem",
+                            "sizeClass": "mb-0",
+                            "name": ".mh-subtitle-h5"
+                        },
+                        {
+                            "type": "H6",
+                            "classes": "h6 float-left mr-3",
+                            "size": "Size: 1rem",
+                            "sizeClass": "mb-0",
+                            "name": ".mh-subtitle-h6"
+                        }
+                    ]
+                },
+                "bannerSections": [{
+                        "background": "#efefef",
+                        "mainTitle": "Features / Pages",
+                        "images": "health_mainweb.png"
+                    },
+                    {
+                        "background": null,
+                        "mainTitle": "Banner e Mobile App",
+                        "images": "health_mobile.png"
+                    },
+                    {
+                        "background": "#efefef",
+                        "mainTitle": "Layout",
+                        "images": "health_layout.png"
+                    },
+                    {
+                        "background": null,
+                        "mainTitle": "Spacing",
+                        "images": "health_spaces.png"
+                    }
+                ]
+            },
+            {
+                "workName": "BOTTO",
+                "uniQueId": "bottiWebWork",
+                "bannerImage": "botto_banner.png",
+                "styleColPallete": {
+                    "padding": "20px"
+                },
+                "styleColTypography": {
+                    "backgroundColor": "#d6d4d4",
+                    "borderRadius": "12px",
+                    "padding": "20px"
+                },
+                "collorPallete": {
+                    "mainTitle": "Color Pallete:",
+                    "description": "<p style=\"font-size: 0.9rem\">The web standards color palette is a finite set of colors approved for use on this project and consists of only 3 background colors: <strong><em>botto-shadow-10, botto-black-100, botto-white-100.</em></strong> These web standards color palette can be applied only in background elements and for other elements the development team can use any bootstrap color available on the <a class=\"text-dark\" href=\"https://getbootstrap.com/docs/4.3/utilities/colors/\" target=\"_blank\">Bootstrap documentation</a>.</p>",
+                    "left": [{
+                            "color": "#F6F3EF",
+                            "name": ".botto-shadow-10"
+                        },
+                        {
+                            "color": "#000000",
+                            "name": ".botto-black-100"
+                        },
+                        {
+                            "color": "#FFFFFF",
+                            "name": ".botto-white-100"
+                        }
+                    ]
+                },
+                "typoGraphy": {
+                    "mainTitle": "Typography",
+                    "description": "<p style=\"font-size: 0.9rem\">Effective text treatment can help developers create pages with character and style using attributes such as size, color and weight. <br />Unique font-family in the whole project: <strong><em>Tahoma    </em></strong>.<br />The default font size is <strong><em>1rem</em></strong>. All elements, including headings (H1-6) are set to the default font size. To size any paragraph or heading element to be larger or smaller than the default font size, you must add a size class.<br />The standard size classes that can be used on any text element are: <strong><em>botto-title-h1, botto-subtitle-h2, botto-subtitle-h3, botto-subtitle-h4, botto-subtitle-h5, botto-subtitle-h6</em></strong>. For example, <strong><em>&lt;h1 class=\"botto-subtitle-h3\"&gt;</em></strong> reduces the H1 text to 1.75rem.<br />As this project is aligned together with Bootstrap any Display classes can be used to increase the font-size.<p>",
+                    "left": [{
+                            "type": "H1",
+                            "classes": "h1 float-left mr-3",
+                            "size": "Size: 2.5rem",
+                            "sizeClass": "pt-1 mb-0",
+                            "name": ".botto-title-h1"
+                        },
+                        {
+                            "type": "H2",
+                            "classes": "h2 float-left mr-3",
+                            "size": "Size: 2rem",
+                            "sizeClass": "pt-1 mb-0",
+                            "name": ".botto-subtitle-h2"
+                        },
+                        {
+                            "type": "H3",
+                            "classes": "h3 float-left mr-3",
+                            "size": "Size: 1.75rem",
+                            "sizeClass": "mb-0",
+                            "name": ".botto-subtitle-h3"
+                        }
+                    ],
+                    "right": [{
+                            "type": "H4",
+                            "classes": "h4 float-left mr-3",
+                            "size": "Size: 1.5rem",
+                            "sizeClass": "mb-0",
+                            "name": ".botto-subtitle-h4"
+                        },
+                        {
+                            "type": "H5",
+                            "classes": "h5 ml-0 mt-0 float-left mr-3",
+                            "size": "Size: 1.25rem",
+                            "sizeClass": "mb-0",
+                            "name": ".botto-subtitle-h5"
+                        },
+                        {
+                            "type": "H6",
+                            "classes": "h6 float-left mr-3",
+                            "size": "Size: 1rem",
+                            "sizeClass": "mb-0",
+                            "name": ".botto-subtitle-h6"
+                        }
+                    ]
+                },
+                "bannerSections": [{
+                    "background": "#efefef",
+                    "mainTitle": "Prototype",
+                    "images": "botto_pages.png"
+                }]
+            }
+        ]
+    }]
+}
